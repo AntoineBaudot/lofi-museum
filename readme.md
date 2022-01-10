@@ -2,7 +2,7 @@
 
 > Its purpose is to offer a relaxing musical experience around “lofi” music. Interact with the instruments to smoothen your ears.
 
-### 🏠 [Website](https://cathydolle.github.io/musicMuseum/)
+### 🏠 [Website](https://antoinebaudot.github.io/lofi-museum/)
 
 ## Prerequisites
 
